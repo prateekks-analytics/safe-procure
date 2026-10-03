@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.env
+keys.env
+safe_procure_report*.html
+runs/*.json
+!runs/latest.json
